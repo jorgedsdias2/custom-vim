@@ -1,0 +1,17 @@
+cs	vim-surround/doc/surround.txt	/*cs*
+ds	vim-surround/doc/surround.txt	/*ds*
+i_CTRL-G_S	vim-surround/doc/surround.txt	/*i_CTRL-G_S*
+i_CTRL-G_s	vim-surround/doc/surround.txt	/*i_CTRL-G_s*
+surround	vim-surround/doc/surround.txt	/*surround*
+surround-customizing	vim-surround/doc/surround.txt	/*surround-customizing*
+surround-issues	vim-surround/doc/surround.txt	/*surround-issues*
+surround-mappings	vim-surround/doc/surround.txt	/*surround-mappings*
+surround-replacements	vim-surround/doc/surround.txt	/*surround-replacements*
+surround-targets	vim-surround/doc/surround.txt	/*surround-targets*
+surround.txt	vim-surround/doc/surround.txt	/*surround.txt*
+vS	vim-surround/doc/surround.txt	/*vS*
+vgS	vim-surround/doc/surround.txt	/*vgS*
+yS	vim-surround/doc/surround.txt	/*yS*
+ySS	vim-surround/doc/surround.txt	/*ySS*
+ys	vim-surround/doc/surround.txt	/*ys*
+yss	vim-surround/doc/surround.txt	/*yss*
